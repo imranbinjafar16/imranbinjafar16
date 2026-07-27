@@ -1,74 +1,51 @@
-# Hi, I'm Imran Bin Jafar 👋
-
-## Microsoft Cloud, Automation and Solution Architecture Professional
-
-I am an enterprise technology professional based in Regina, Saskatchewan, specializing in Microsoft cloud platforms, identity and access management, workflow automation, API integration, IT service management and enterprise solution delivery.
-
-I currently work as a Microsoft Solutions Specialist and am expanding my expertise in Guidewire PolicyCenter, property and casualty insurance technology, enterprise data platforms and solution architecture.
-
-## Core Skills
-
-- Microsoft Azure
-- Microsoft 365
-- Microsoft Entra ID
-- Power Apps
-- Power Automate
-- Azure Functions
-- Microsoft Graph API
-- PowerShell
-- Identity and Access Management
-- IT Service Management
-- API Integration
-- Solution Architecture
-- Enterprise Automation
-
-## Featured Projects
-
-### TeamsAdmin360 Agent
-
-An Azure AI-based administration and governance solution integrating Azure AI Foundry, Azure Functions, managed identities and Microsoft Graph.
-
-### Teams Voice Automation Platform
-
-An enterprise workflow for Microsoft Teams Phone provisioning and de-provisioning using Power Apps, Power Automate, Azure Functions, PowerShell and external APIs.
-
-### Microsoft Service Health Monitoring
-
-An automated solution for collecting, classifying and reporting Microsoft 365 service-health incidents through operational dashboards and targeted alerts.
-
-### Guidewire PolicyCenter Development
-
-A personal insurance-technology project focused on Guidewire PolicyCenter configuration, Gosu, PCF files, entity modelling and policy lifecycle concepts.
-
-### Predictive Maintenance Architecture
-
-An enterprise architecture project using MQTT, Python, machine learning, Azure IoT Hub, APIs, Terraform and network segmentation.
-
-## Certifications
-
-- Project Management Professional — PMP
-- ITIL 4 Foundation
-- Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: Azure Security Engineer Associate
-- Microsoft Certified: Identity and Access Administrator Associate
-- Microsoft 365 Certified: Administrator Expert
-- Engineer-in-Training — APEGS
-
-## Current Focus
-
-- Guidewire PolicyCenter
-- Property and Casualty Insurance
-- Azure Solution Architecture
-- Enterprise Data Platforms
-- DevOps and DataOps
-- TOGAF Enterprise Architecture
-
-## Connect
-
-- LinkedIn: Add your LinkedIn profile link
-- Email: Add your professional email
-- Location: Regina, Saskatchewan, Canada
-
----
-
-This profile contains personal projects and sanitized technical case studies. No confidential employer information, production credentials or proprietary source code is published.
+Hi, I'm Imran Bin Jafar 👋
+Enterprise IT Professional | Microsoft Cloud | AI | Automation | Solution Architecture
+I am an Enterprise IT Professional based in Regina, Saskatchewan, Canada, with 10+ years of experience across enterprise IT, Microsoft cloud, automation, telecommunications, governance, security, service management, and solution delivery.
+I currently work as a Microsoft Solutions Specialist and design practical, secure, and supportable solutions across Microsoft 365, Azure, identity, automation, AI, APIs, enterprise platforms, and IT operations.
+🌐 Portfolio: saskbot.com
+Core Expertise
+Microsoft Azure
+Microsoft 365
+Microsoft Entra ID
+Active Directory
+Power Apps
+Power Automate
+Azure Functions
+Microsoft Graph API
+PowerShell
+Identity and Access Management
+Security and Governance
+IT Service Management
+API Integration
+Solution Architecture
+Enterprise Automation
+AI Agents and Applied AI
+Guidewire PolicyCenter
+Project Leadership
+Professional Credentials
+Project Management Professional — PMP®
+Microsoft 365 Certified: Administrator Expert
+Microsoft Certified: Azure Administrator Associate
+Microsoft Certified: Azure Security Engineer Associate
+Microsoft Certified: Identity and Access Administrator Associate
+AWS Certified Solutions Architect – Associate
+Certified Ethical Hacker — CEH
+Cisco Certified Network Associate — CCNA
+CompTIA A+
+ITIL® 4 Foundation
+Engineer-in-Training — APEGS
+Selected Work
+TeamsAdmin360 Agent
+Enterprise AI agent using Azure AI Foundry, Azure Functions, managed identity, and Microsoft Graph to support Microsoft Teams governance and controlled administration.
+Teams Voice Automation Platform
+Governed provisioning and de-provisioning workflows built with Power Apps, Power Automate, Azure Functions, Teams PowerShell, ITSM, and telecom integrations.
+Microsoft 365 Service Health Monitoring
+Operational monitoring solution that collects Microsoft 365 service incidents, classifies business impact, and delivers dashboards and targeted alerts.
+Guidewire PolicyCenter Development
+Hands-on development involving Gosu, PCF configuration, entity modelling, transactions, databases, and property and casualty insurance workflows.
+Professional Focus
+I focus on designing intelligent systems that work in real enterprise environments. My approach connects architecture, automation, security, governance, observability, operational readiness, and measurable business outcomes.
+Connect
+Website: saskbot.com
+LinkedIn: linkedin.com/in/imranbinjafar
+GitHub: github.com/imranbinjafar16
